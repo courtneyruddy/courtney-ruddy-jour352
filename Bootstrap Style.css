@@ -1,0 +1,52 @@
+/* Main Style */
+
+h1 {
+    font-family: 'Special Elite', cursive;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+  }
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 500px;
+
+  }
+
+h3 {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+  }
+
+\F708  {
+    font-size: 3em;
+    text-align: center;
+
+}
+
+.container {
+    text-align: center;
+
+}
+
+.btn {
+    font-family: 'Special Elite', cursive;
+}
+
+.navar-brand {
+    font-family: 'Special Elite', cursive;
+}
+
+@media only screen and (max-width: 500px) {
+ 
+	INSERT STYLES HERE FOR SCREENS BELOW 500px
+}
